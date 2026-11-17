@@ -2,7 +2,7 @@ services:
   - type: web
     name: mokw
     runtime: static
-    buildCommand: ""
+    buildCommand: "true"
     staticPublishPath: .
     headers:
       - path: /*
