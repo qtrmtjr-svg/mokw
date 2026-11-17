@@ -1,0 +1,254 @@
+@media only screen and (min-device-width:768px) and
+	(max-device-width:1024px) {
+}
+
+@media only screen and (min-device-width:768px) and
+	(max-device-width:1024px) and (orientation:portrait) {
+}
+
+@media only screen and (min-device-width:340px) and
+	(max-device-width:667px) {
+	.ServicesCarousel .col-md-4 {
+		width: 100%;
+	}
+	.AW_CircleTitle span {
+		display: none !important;
+	}
+	.AW_eService_Table .AW_eService_TD {
+		min-height: 50px !important;
+	}
+	.AW_PageFooter .AW_CircleLink {
+		padding-right: 5px;
+	}
+	.AW_PageFooter .AW_Circle {
+		
+	}
+	.AW_PageFooter .AW_Circle .fa {
+		
+	}
+	.AW_PageFooter .AW_CircleLink {
+		padding-right: 5px;
+	}
+	.AW_PageFooter .AW_CircleLink .AW_CircleTitle {
+		color: white;
+		font-size: 8px !important;
+		padding-right: 32px;
+		line-height: 1.6;
+	}
+	.AW_PageFooter .divHoverShow {
+		bottom: 40px;
+		padding-bottom: 20px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.AW_PageFooter .divHoverShow .divHoverDesc {
+		line-height: 1.5;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		font-size: 8px;
+	}
+	.AW_PageFooter .divHoverShow h1, .AW_PageFooter .divHoverShow h2 {
+		margin-bottom: 10px;
+	}
+	.AW_PageFooter .divHoverShow h1, .AW_PageFooter .divHoverShow .divHoverTitle
+		{
+		font-size: 10px;
+	}
+	.AW_PageFooter .divHoverShow h2 {
+		font-size: 11px;
+	}
+	.AW_PageFooter .divHoverShow02 {
+		padding-bottom: 50px;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth3 {
+		width: 490%;
+	}
+	.AW_PageFooter .divHoverShow03 {
+		margin-right: -200% !important;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth4 {
+		width: 490%;
+	}
+	.AW_PageFooter .divHoverShow01 {
+		margin-right: -100% !important;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth4 {
+		width: 490%;
+	}
+	.AW_PageFooter .divHoverShow04 {
+		margin-left: -100% !important;
+		padding-bottom: 50px;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth2 {
+		width: 490%;
+	}
+	.AW_PageFooter .divHoverShow05 {
+		margin-left: 0% !important;
+		padding-bottom: 50px;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth3 {
+		width: 490%;
+		overflow: hidden !important;
+	}
+	#myMap {
+		height: 450px !important;
+		width: 100%;
+	}
+	.AW_eService_Table .AW_eService_TD {
+		width: 100% !important;
+	}
+	.AW_eService_Table {
+		margin: 0px !important;
+	}
+	.AW_PageFooter .divHoverShow05 {
+		
+	}
+	.aw-newsItem-secondary {
+		width: 50% !important;
+	}
+	.aw-newsItem-secondary-item {
+		width: 100% !important;
+	}
+	.NewsPage .is-card .mi-article-media-block {
+		height: 100% !important;
+	}
+	.AW-Navigation-mobile ul li a {
+		font-size: 12px !important;
+		color: white !important;
+	}
+	.AW-Navigation-mobile h3 {
+		font-size: 14px !important;
+		color: #fc0 !important;
+	}
+	.AW-Navigation-mobile ul li {
+		line-height: 1.7;
+	}
+	.SubMenu {
+		padding-left: 0px !important;
+		padding-right: 0px !important;
+	}
+	.AW-faSocialMedia .faSocialMediaIcons {
+		font-size: 50px;
+	}
+	.ms-core-pageTitle {
+		white-space: normal !important;
+		padding-left: 20px;
+		padding-bottom: 0px !important;
+	}
+	#s4-titlerow {
+		height: 100% !important;
+		padding-bottom: 0px !important;
+	}
+	.DeptsContainer .col-md-4 {
+		width: 100% !important;
+	}
+	.FriendsSitesDisplayData .col-md-3 {
+		width: 100% !important;
+	}
+	.AW-owl-carousel-2 .content-box-wrapper {
+		min-height: 100% !important;
+	}
+	.BootstrapWrapper .arabic .nav-tabs>li {
+		width: 100%;
+	}
+	.BootstrapWrapper .nav-tabs>li.active>a, .BootstrapWrapper .nav-tabs>li.active>a:hover,
+		.BootstrapWrapper .nav-tabs>li.active>a:focus {
+		border-bottom-color: #ddd;
+	}
+	.SixthBanner {
+		padding-bottom: 100px !important;
+	}
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+	.ServicesCarousel .col-md-4 {
+		width: 100%;
+	}
+	.AW_PageFooter .AW_Circle {
+		position: absolute;
+		width: 30px;
+		height: 30px;
+		margin-top: -15px;
+	}
+	.AW_PageFooter .AW_Circle .fa {
+		line-height: 0.9px;
+		width: 20px;
+		text-align: center;
+		font-size: 13px;
+		position: absolute;
+		top: 11px;
+		left: 2px;
+	}
+	.AW_PageFooter .AW_CircleLink {
+		padding-right: 5px;
+	}
+	.AW_PageFooter .AW_CircleLink .AW_CircleTitle {
+		color: white;
+		font-size: 8px !important;
+		padding-right: 32px;
+		line-height: 1.6;
+	}
+	.AW_PageFooter .divHoverShow {
+		bottom: 40px;
+		padding-bottom: 20px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth3 {
+		width: 500px;
+	}
+	.AW_PageFooter .divHoverShow .divHoverDesc {
+		line-height: 1.5;
+		margin-top: 5px;
+		margin-bottom: 5px;
+		font-size: 8px;
+	}
+	.AW_PageFooter .divHoverShow h1, .AW_PageFooter .divHoverShow h2 {
+		margin-bottom: 10px;
+	}
+	.AW_PageFooter .divHoverShow h1, .AW_PageFooter .divHoverShow .divHoverTitle
+		{
+		font-size: 10px;
+	}
+	.AW_PageFooter .divHoverShow h2 {
+		font-size: 11px;
+	}
+	.AW_PageFooter .divHoverShow.HoverWidth4 {
+		width: 500px;
+	}
+	.AW_eService_Table .AW_eService_TD {
+		width: 100% !important;
+	}
+	.AW_eService_Table {
+		margin: 0px !important;
+	}
+	.AW_PageFooter .divHoverShow01 {
+		margin-right: -100px !important;
+	}
+	.AW_PageFooter .divHoverShow02 {
+		
+	}
+	.AW_PageFooter .divHoverShow03 {
+		margin-right: -200px !important;
+	}
+	.AW_PageFooter .divHoverShow04 {
+		width: 500px !important;
+		margin-left: -100px;
+	}
+	.AW_PageFooter .divHoverShow05 {
+		
+	}
+	.aw-newsItem-secondary {
+		width: 50% !important;
+	}
+	.aw-newsItem-secondary-item {
+		width: 100% !important;
+	}
+}
+
+@media ( max-width :1200px) {
+	.NewsPage .mi-article-media-block.col-md-6.col-md-tagsItems {
+		width: 100% !important;
+		height: auto !important;
+	}
+}

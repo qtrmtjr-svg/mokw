@@ -1,0 +1,85 @@
+.carousel .carousel-control.right, .carousel .carousel-control.left {
+	background-image: unset !important;
+	background-image: none !important;
+	filter: none !important;
+}
+
+.HomeCarousel .carousel-caption, .HomeCarousel .carousel-caption p {
+	padding-bottom: 0px !important;
+}
+
+.HomeCarousel .carousel-caption p {
+	font-size: 22px !important;
+}
+
+.ServicesCarousel .right.carousel-control, .ServicesCarousel .left.carousel-control
+	{
+	background: no-repeat !important;
+	background-image: unset !important;
+	background-image: none !important;
+	filter: none !important;
+}
+
+.fourthBanner .BootstrapWrapper .navbar-default {
+	background-color: transparent !important;
+	border-color: transparent !important;
+}
+
+.fourthBanner .BootstrapWrapper .navbar-default .navbar-nav>li>a {
+	color: rgba(255, 255, 255, .8) !important;
+}
+
+.fourthBanner .BootstrapWrapper .navbar-nav>li {
+	float: right !important;
+}
+
+.fourthBanner .BootstrapWrapper .navbar-header {
+	float: right !important;
+}
+
+.fourthBanner .BootstrapWrapper .row {
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+}
+
+.fourthBanner .BootstrapWrapper .navbar-default .navbar-brand {
+	color: rgba(255, 255, 255, .8) !important;
+}
+
+.fourthBanner .BootstrapWrapper #navbar-ex-collapse {
+	float: right;
+}
+
+.fourthBanner .BootstrapWrapper .caret-up {
+	width: 0;
+	height: 0;
+	border-left: 4px solid rgba(0, 0, 0, 0);
+	border-right: 4px solid rgba(0, 0, 0, 0);
+	border-bottom: 4px solid;
+	display: inline-block;
+	margin-left: 2px;
+	vertical-align: middle;
+	float: left !important;
+	margin-top: 10px !important;
+	margin-right: 5px !important;
+}
+
+.fourthBanner .BootstrapWrapper .caret {
+	float: left !important;
+	margin-top: 10px !important;
+	margin-right: 5px !important;
+}
+
+.carousel-indicators {
+	display: none !important;
+}
+
+.BootstrapWrapper .arabic .nav-pills>li {
+	float: right !important;
+	margin-bottom: -1px;
+	margin-right: -1px;
+}
+
+.jflatTimeline ul.jflat-ul li {
+	width: 12.5% !important;
+}

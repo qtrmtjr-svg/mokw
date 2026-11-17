@@ -1,0 +1,19 @@
+﻿.Banner,.SecondBanner,.ThirdBanner,.fourthBanner,footer,#navbarid,.AW_Circle,.AW_CircleLink,.divHoverShow,.AW_TopNavigation,.AW_PageFooter
+,.BootstrapWrapper .arabic .tab-pane .tab-pane-subtitle,.Background-Change-Color,.AW_Circle_Prince{background:#0a4976 !important;color:white;}
+.Border-Change-Color,.fifthBanner{border-color:#0a4976 !important;}
+
+ .AW_Pay_Div .AW_Pay_link .AW_PageFooter{color:#0a4976 !important;}
+.RowContainer .header-buttons-separator .icon-separator .fa-icon,
+.BigIconTable .BigIconTable-Desc,
+.BigIconTable .BigIconTable-Title,
+.RowContainer .content-box .content-box-header ,.BootstrapWrapper .arabic .content-box-title
+,.BootstrapWrapper .arabic .tab-pane .tab-pane-services,.AW_FriendSitesTable .AW_FriendSitesTitle,.Font-Change-Color{color:#0a4976 !important;}
+
+.MOJ_Services li.active a{background-color:#0a4976 !important; color:white;}
+.MOJ_Services li a{color:#0a4976 !important;}
+/*.AW_PageFooter {color:white !important;background:#0a4976 !important}*/
+
+
+.MenuContainer td.MenuDescText{
+	color:white;
+}

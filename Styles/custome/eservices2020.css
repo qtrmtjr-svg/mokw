@@ -1,0 +1,54 @@
+.customTabs {
+	background-color: #76180a;
+	color: white;
+	/*font-family: 'Playfair Display', serif;*/
+	font-size: 1.2rem;
+	padding: 11px 25px;
+	border-radius: 20px;
+	box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.228);
+}
+
+.customTabs:hover {
+	background-color: white;
+	color: #cc0000;
+	transition-do .uration: 0.5s;
+}
+
+a .customTabs {
+	background-color: #23527c;
+	color: white;
+	display: inline-block;
+	margin-top: 1 0px;
+	width: 240px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.headerTabLeft {
+	width: 90px !important;  /*modified by Jitendra on 9 Dec 2020*/
+	height: 28px;
+       /* line-height: 22px;*/
+	padding-top: 3px !important;
+	margin-top: 10px;
+	float: left !important;
+	border-radius: 25px;
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	font-size: small;
+        margin-right: 5px;
+}
+
+
+.headerTabRight {
+	width: 150px !important; /*modifed by Jitendra on 9 Dec 2020 */
+	height: 28px;
+	/*padding-top: 5px!impotant;*/
+	margin-top: -4px;
+	float: left !important;
+	border-radius: 25px;
+	border: 2px solid white;
+	color: white;
+	text-align: center;
+	font-size: small;
+}
